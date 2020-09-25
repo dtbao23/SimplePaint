@@ -1,0 +1,20 @@
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\bin\Debug\Paint.exe.config
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\bin\Debug\Paint.exe
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\bin\Debug\Paint.pdb
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.frmPaint.resources
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.exe
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.pdb
+E:\HK1 Lập trình Windows\LT\GK_Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\Lập trình Windows\LT\Paint\Paint\bin\Debug\Paint.exe.config
+E:\Lập trình Windows\LT\Paint\Paint\bin\Debug\Paint.exe
+E:\Lập trình Windows\LT\Paint\Paint\bin\Debug\Paint.pdb
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.frmPaint.resources
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.exe
+E:\Lập trình Windows\LT\Paint\Paint\obj\Debug\Paint.pdb
